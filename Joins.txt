@@ -1,0 +1,10 @@
+=> If we want to find data which is related  two different table ,then, we have to use joins.
+
+1. Inner join => It will return rows when there is a match in both tables.
+
+2. left join => It will return all rows from left table, even there is no matches in the right table.
+
+3. right join => It will return all rows from right table, even there is no matches in the left table.
+
+
+** research above joins for the  interview purpose.
